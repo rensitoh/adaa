@@ -1,0 +1,37 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Blaziken ➜ cambiar a Gengar +4 +2 (Blaziken Pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Frente a Darmanitan ➜ Varias opciones",
+      "variant": [
+        {
+          "detail": "Ahorro $? → Volcarona +3 🦋🔥",
+          "variant": []
+        },
+        {
+          "detail": "Estable → Slowbro Bostezo → Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "RNG → Sacrifica a Politoed Poliwrath +6 🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Hitmonchan ➜ Cambiar a Slowbro Bostezo, sale Metagross → Sacrifica a Politoed Poliwrath +6 🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "Machamp ➜ cambiar a  👻 Gengar Otra Vez +4 +2 👻",
+      "variant": []
+    }
+  ]
+}

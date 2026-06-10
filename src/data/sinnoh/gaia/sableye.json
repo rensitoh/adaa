@@ -1,0 +1,41 @@
+{
+  "id": "sableye",
+  "name": "Sableye",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔Cambiar a Slowbro🔔",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Usar Bostezo",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior / Camerupt --> Usar Teletransporte entrar con Volcarona , usar Especial X y presionar",
+      "variant": []
+    },
+    {
+      "detail": "Serperior --> Entrar con Volcarona +2",
+      "variant": []
+    },
+    {
+      "detail": "Durant --> Usar Teletransporte ; entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar",
+      "variant": []
+    },
+    {
+      "detail": "Durant --> Usar Bostezo ; usar Teletransporte ; entrar con Volcarona +1 para debilitar al enfrentar a Hippowdon; usar Especial X y presionar para completar",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior --> Usar Bostezo 🔔 Revisar si Megacuerno acierta 🔔",
+      "variant": [
+        {
+          "detail": "Acierta --> Usar Teletransporte ; entrar con Volcarona , usar Especial X y presionar",
+          "variant": []
+        },
+        {
+          "detail": "Falla --> Cambiar a Volcarona , usar Especial X y presionar",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Conkeldurr --> Gengar +4",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus --> Gengar +4 🔔Si huye a Conkeldurr, cambiar a Chansey y luego a Gengar +4🔔",
+      "variant": []
+    }
+  ]
+}

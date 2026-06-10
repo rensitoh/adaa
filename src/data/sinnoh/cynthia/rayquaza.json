@@ -1,0 +1,25 @@
+{
+  "id": "rayquaza",
+  "name": "Rayquaza",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 Usar Teletransporte 🔔(Para ver la habilidad)🔔",
+  "tricks": [
+    {
+      "detail": "Sin Velocidad Extrema --> Entrar con Politoed para sacrificarlo 🔔(Mira la Habilidad)🔔",
+      "variant": [
+        {
+          "detail": "Velocidad Extrema --> Entrar con Gengar +4",
+          "variant": []
+        },
+        {
+          "detail": "Garra Dragón --> Entrar con Poliwrath y Barrer hasta Garchmop, luego usa un Ataque X y sigue Barriendo;",
+          "variant": []
+        }  
+      ]  
+    },
+    {
+      "detail": "Velocidad Extrema --> Entrar con Gengar +4 🔔(Barre con Bola Sombra)🔔",
+      "variant": []
+    }
+  ]
+}

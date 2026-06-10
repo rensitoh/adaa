@@ -1,0 +1,16 @@
+{
+  "id": "golem",
+  "name": "Golem",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨TrampaRocas🪨 al enfrentar a Durant",
+  "tricks": [
+    {
+      "detail": "Estable --> Cambiar a Slowbro y luego a Volcarona al enfrentar a Gengar; Volcarona +1 🔔Usar Psíquico al enfrentar a Gengar (ghost)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Arriesgado --> Entrar con Volcarona +1 🔔Usar Psíquico al enfrentar a Gengar 🔔",
+      "variant": []
+    }
+  ]
+}
